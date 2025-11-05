@@ -2,5 +2,4 @@
 ### В этом репозитории вы можете скачать образы Windows и сборки
 
 ### Дерево операционных систем
-> windows-x64
-[Windows 10 1809](https://github.com)
+> [Windows 10 1809](https://github.com)
