@@ -1,1 +1,1 @@
-# 🔮 ArcanaOS Repository
+# 🔮 ArcanaOS Repository / Репозиторий
